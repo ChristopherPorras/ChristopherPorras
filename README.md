@@ -20,6 +20,8 @@ Welcome to my portfolio, where I share some of the projects I've worked on.
   <a href="https://www.linkedin.com/in/christopher-porras-marin-93b22b286/" target="_blank">LinkedIn</a> 
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
 
 ### Programming Languages
@@ -99,6 +101,8 @@ Welcome to my portfolio, where I share some of the projects I've worked on.
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a>
 </p>
+
+---
 
 ### Programming Languages
 
