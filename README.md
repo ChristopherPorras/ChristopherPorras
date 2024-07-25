@@ -104,5 +104,8 @@ Welcome to my portfolio, where I share some of the projects I've worked on.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christopherporras&show_icons=true&locale=en&layout=compact&text_color=ffffff&title_color=ffffff&bg_color=000000" alt="christopherporras" /></p>
 
-
-
+<!-- FOOTER -->
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  alt="footer" />
+</div>
