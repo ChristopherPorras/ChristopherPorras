@@ -100,4 +100,4 @@ Welcome to my portfolio, where I share some of the projects I've worked on.
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christopherporras&show_icons=true&locale=en&layout=compact" alt="christopherporras" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christopherporras&show_icons=true&locale=en&layout=compact&text_color=000000" alt="christopherporras" /></p>
