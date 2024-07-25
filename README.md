@@ -1,11 +1,10 @@
 <!-- HEADER -->
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Christopher%20Porras%20-%20Full%20Stack%20Developer&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=🖥️%20Christopher%20Porras%20-%20Full%20Stack%20Developer&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
   alt="header"/>
 </div>
 
-
-# 🖥️ Christopher Porras - Full Stack Developer
+---
 
 Full Stack Developer from Costa Rica with a passion for creating robust and scalable applications. 
 Welcome to my portfolio, where I share some of the projects I've worked on.
