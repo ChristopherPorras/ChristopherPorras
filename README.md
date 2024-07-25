@@ -11,8 +11,7 @@ Welcome to my portfolio, where I share some of the projects I've worked on.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/christopherporras/" target="_blank">LinkedIn</a> |
-  <a href="https://twitter.com/christopherporras" target="_blank">Twitter</a>
+  <a href="https://www.linkedin.com/in/christopher-porras-marin-93b22b286/" target="_blank">LinkedIn</a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
