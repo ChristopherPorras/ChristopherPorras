@@ -81,6 +81,7 @@ Full Stack Software Developer with academic experience in web and desktop applic
 ## GitHub Statistics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherPorras&layout=compact&theme=dark" alt="Top Languages" />
+  
 </div>
 
 <!-- FOOTER -->
