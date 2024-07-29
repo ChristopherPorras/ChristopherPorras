@@ -71,13 +71,6 @@ Full Stack Software Developer with academic experience in web and desktop applic
 ## GitHub Statistics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherPorras&layout=compact&theme=dark" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristopherPorras&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
-
-### Additional GitHub Insights
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristopherPorras&theme=black-ice" alt="GitHub Streak" />
-  <img src="https://ghchart.rshah.org/08c4d0/ChristopherPorras" alt="GitHub Contributions" />
 </div>
 
 <!-- FOOTER -->
