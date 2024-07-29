@@ -4,7 +4,8 @@
   alt="header"/>
 </div>
 
-Full Stack Software Developer with experience in web and desktop application development using C# and Java. Proficient in SQL databases and RESTful API creation. Experienced with project management tools like GitHub, Azure DevOps, and Jira. Committed to implementing innovative technological solutions.
+
+Full Stack Software Developer with academic experience in web and desktop application development using C# and Java. Proficient in SQL databases and RESTful API creation. Experienced with project management tools like GitHub, Azure DevOps, and Jira. Committed to implementing innovative technological solutions.
 
 ## Skills
 
@@ -68,8 +69,11 @@ Full Stack Software Developer with experience in web and desktop application dev
 - **Phone**: +506 8587-8883
 - **Location**: Cartago, Costa Rica
 
-## GitHub Language Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherPorras&layout=compact&theme=radical)
+## GitHub Statistics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherPorras&layout=compact&theme=blue-green" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChristopherPorras&show_icons=true&theme=blue-green" alt="GitHub Stats" />
+</div>
 
 <!-- FOOTER -->
 <div align="center" width="100">
