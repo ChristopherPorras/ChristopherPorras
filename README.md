@@ -69,11 +69,13 @@ Full Stack Software Developer with academic experience in web and desktop applic
 - **Location**: Cartago, Costa Rica
 
 ## 🚀 Check Out My CV and Introduction Video!
+
 <div align="center">
   <a href="https://drive.google.com/drive/folders/1V3COsG_Fl8KW8QsrWsYH0TEpLyKdw30s?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20CV%20and%20Video-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Google Drive Link"/>
   </a>
 </div>
+
 ## GitHub Statistics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherPorras&layout=compact&theme=dark" alt="Top Languages" />
