@@ -40,6 +40,9 @@ Full Stack Software Developer with academic experience in web and desktop applic
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### Services
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 ## Professional Summary
 - **Full Stack Developer** with academic experience in web and desktop application development.
 - Proficient in **C#** and **Java** with a strong foundation in **SQL** databases.
