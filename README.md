@@ -4,7 +4,7 @@
   alt="header"/>
 </div>
 
-Full Stack Software Developer with two years of experience in web and desktop application development using C# and Java. Proficient in SQL databases and RESTful API creation. Experienced with project management tools like GitHub, Azure DevOps, and Jira. Committed to implementing innovative technological solutions.
+Full Stack Software Developer with experience in web and desktop application development using C# and Java. Proficient in SQL databases and RESTful API creation. Experienced with project management tools like GitHub, Azure DevOps, and Jira. Committed to implementing innovative technological solutions.
 
 ## Skills
 
@@ -44,7 +44,7 @@ Full Stack Software Developer with two years of experience in web and desktop ap
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ## Professional Summary
-- **Full Stack Developer** with academic experience in web and desktop application development.
+- **Full Stack Developer** with experience in web and desktop application development.
 - Proficient in **C#** and **Java** with a strong foundation in **SQL** databases.
 - Experienced in developing **RESTful APIs** for web, mobile, and other services.
 - Skilled in frontend development with **HTML**, **CSS**, **Bootstrap**, and **jQuery**.
