@@ -4,7 +4,7 @@
   alt="header"/>
 </div>
 
-Full Stack Software Developer with academic experience in web and desktop application development using C# and Java. Proficient in SQL databases and RESTful API creation. Experienced with project management tools like GitHub, Azure DevOps, and Jira. Committed to implementing innovative technological solutions.
+Full Stack Software Developer with two years of experience in web and desktop application development using C# and Java. Proficient in SQL databases and RESTful API creation. Experienced with project management tools like GitHub, Azure DevOps, and Jira. Committed to implementing innovative technological solutions.
 
 ## Skills
 
