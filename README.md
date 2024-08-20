@@ -54,8 +54,13 @@ Full Stack Software Developer with experience in web and desktop application dev
 ## Experience
 ### Full Stack Software Developer - Gym Management Application
 - Designed database schema in **SQL**, optimized queries, and managed indexes.
-- Incorporated business logic in **Java** using design patterns like **MVC**.
-- Utilized **Jira** for task tracking, issue management, and version control.
+- Developed a robust backend with **C#** using **ASP.NET Core MVC**.
+- Implemented **RESTful APIs** to manage users, routines, payments, and progress tracking.
+- Created dynamic frontend interfaces using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**.
+- Utilized **Entity Framework Core** for database operations, ensuring data integrity and performance.
+- Integrated **JWT-based authentication** for secure user sessions.
+- Used **Swagger** for API documentation and **CORS** to manage cross-origin requests.
+- Applied **Agile methodologies** and tracked tasks using **Jira**.
 
 ### Full Stack Software Developer - Restaurant Management Desktop Application
 - Developed backend logic in **C#** using **ASP.NET Core**.
