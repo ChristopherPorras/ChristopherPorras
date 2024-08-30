@@ -1,10 +1,10 @@
 <!-- HEADER -->
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=🖥️%20Christopher%20Porras%20-%20Full%20Stack%20Developer&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=🖥️%20Christopher%20Porras%20-%20Backend%20&%20Full%20Stack%20Developer&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
   alt="header"/>
 </div>
 
-Full Stack Software Developer with experience in web and desktop application development using C# and Java. Proficient in SQL databases and RESTful API creation. Experienced with project management tools like GitHub, Azure DevOps, and Jira. Committed to implementing innovative technological solutions.
+Backend and Full Stack Software Developer with over 2 years of experience in designing and implementing scalable architectures using C#, ASP.NET Core, Java, and SQL databases. Proven track record in optimizing system performance, developing secure RESTful APIs, and delivering high-quality code. Recognized for leading successful projects.
 
 ## Skills
 
@@ -40,36 +40,39 @@ Full Stack Software Developer with experience in web and desktop application dev
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Services
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+### Development Methodologies
+![Scrum](https://img.shields.io/badge/Scrum-48A9A6?style=for-the-badge&logo=scrum&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-FCA121?style=for-the-badge&logo=tdd&logoColor=white)
 
 ## Professional Summary
-- **Full Stack Developer** with experience in web and desktop application development.
-- Proficient in **C#** and **Java** with a strong foundation in **SQL** databases.
-- Experienced in developing **RESTful APIs** for web, mobile, and other services.
-- Skilled in frontend development with **HTML**, **CSS**, **Bootstrap**, and **jQuery**.
+- **Backend and Full Stack Developer** with expertise in scalable architecture design and implementation.
+- Proficient in **C#**, **Java**, and **SQL** with a strong foundation in **RESTful API** development.
+- Experienced in frontend development with **HTML**, **CSS**, **Bootstrap**, and **jQuery**.
 - Strong background in **backend development** using **ASP.NET Core**.
-- Familiar with project management and version control tools like **Git**, **Azure DevOps**, and **Jira**.
+- Familiar with project management tools like **Git**, **Azure DevOps**, and **Jira**.
 
 ## Experience
-### Full Stack Software Developer - Gym Management Application
-- Designed database schema in **SQL**, optimized queries, and managed indexes.
-- Developed a robust backend with **C#** using **ASP.NET Core MVC**.
-- Implemented **RESTful APIs** to manage users, routines, payments, and progress tracking.
-- Created dynamic frontend interfaces using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**.
-- Utilized **Entity Framework Core** for database operations, ensuring data integrity and performance.
-- Integrated **JWT-based authentication** for secure user sessions.
-- Used **Swagger** for API documentation and **CORS** to manage cross-origin requests.
-- Applied **Agile methodologies** and tracked tasks using **Jira**.
+### Lead Developer - Gym Management Web Application | Universidad Cenfotec | 2024
+- Designed and implemented a RESTful API for user and role management, optimizing operations by 25%.
+- Implemented advanced data validation and error handling features, improving application security.
+- This application was awarded as the best project of my generation due to high-quality code and integration of functionalities.
+- Technologies Used: **C# 11.0**, **ASP.NET Core 7.0**, **SQL Server 2022**, **Entity Framework Core 7.0**, **Bootstrap 5.3**.
 
-### Full Stack Software Developer - Restaurant Management Desktop Application
-- Developed backend logic in **C#** using **ASP.NET Core**.
-- Implemented frontend interfaces with **HTML**, **CSS**, and **JavaScript**.
+### Full Stack Developer - Restaurant Management Desktop Application | Universidad Cenfotec | 2022
+- Developed backend logic in **Java** using **JavaFX** and **Hibernate**.
 - Ensured secure data handling with encryption and secure access methods.
+- Technologies Used: **Java 2022**, **JavaFX 2022**, **SQL Server 2017**, **Hibernate 6.2**.
 
 ## Education
 - **Bachelor's in Software Engineering** - Universidad Cenfotec (2021 - Present)
-- **Executive English (B2)** - National Learning Institute (INA) (2017 - 2019)
+- **Technical Degree in Business Administration** - Tecnológico de Costa Rica (2017 - 2019)
+
+## Certifications
+- **Scrum Foundation Professional Certification SFPC™** | CertiProf | 2024
+- **Learn C#** | Codecademy | 2024
+- **Advanced Excel** | INA | 2018
+- **Data Analysis** | Microsoft | 2024
+- **Learn SQL** | Codecademy | 2024
 
 ## Contact
 - **Email**: [christopher.porras.marin@gmail.com](mailto:christopher.porras.marin@gmail.com)
