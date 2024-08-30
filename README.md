@@ -1,7 +1,6 @@
 <!-- HEADER -->
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=🖥️%20Christopher%20Porras%20-%20Backend%20&%20Full%20Stack%20Developer&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
-  alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=🖥️%20Christopher%20Porras%20-%20Backend%20&%20Full%20Stack%20Developer&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"alt="header"/>
 </div>
 
 Backend and Full Stack Software Developer with over 2 years of experience in designing and implementing scalable architectures using C#, ASP.NET Core, Java, and SQL databases. Proven track record in optimizing system performance, developing secure RESTful APIs, and delivering high-quality code. Recognized for leading successful projects.
